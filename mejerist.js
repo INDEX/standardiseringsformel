@@ -11,7 +11,7 @@ let fatPercent = document.getElementById("fatPercent--js").value;
 let skmFat = document.getElementById("skmFat--js").value;
 let sFat = document.getElementById("sFat--js").value;
 if (fatPercent > sFat || fatPercent < skmFat) {
-    alert("Husk at den ønskede fedtprocent skal ligge mellem skummetmælk og sødmælk/fløde");
+    alert("Husk at den ønskede fedtprocent skal ligge mellem fedtprocenten for skummetmælk og sødmælk/fløde");
 }
     function totalS() {
     return kgMilk * (fatPercent - skmFat) / (sFat - skmFat);
