@@ -202,7 +202,7 @@ a:hover {
 .footer-text {
   position: fixed;
   bottom: 0;
-  left: 50%;
-  margin-bottom: 1rem;
+  right: 2rem;
+  margin-bottom: 2.5rem;
   color: crimson;
 }
