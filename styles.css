@@ -187,5 +187,9 @@ a:hover {
     nav {
         padding-top: .5rem;
     }
+
+    header {
+        position: absolute;
+    }
   }
 
