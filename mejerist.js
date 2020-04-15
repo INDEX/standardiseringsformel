@@ -30,7 +30,7 @@ if (fatPercent > sFat || fatPercent < skmFat) {
     endelig.innerHTML += `${totalS().toFixed(2)} kg.`
     finale.innerHTML += `${kgMilk} - ${totalS().toFixed(2)}`;
     finale2.innerHTML += `${totalSkm().toFixed(2)} kg.`
-}
+};
 
 });
 
