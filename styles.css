@@ -177,11 +177,15 @@ a:hover {
     }
     input {
        height: 1.3rem;
-       margin-top: 1rem;
+       margin-top: .1rem;
     }
 
     h2.title {
         margin-left: 1rem;
+    }
+
+    nav {
+        padding-top: .5rem;
     }
   }
 
