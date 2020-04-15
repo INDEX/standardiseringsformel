@@ -179,5 +179,9 @@ a:hover {
        height: 1.3rem;
        margin-top: 1rem;
     }
+
+    h2.title {
+        margin-left: 1rem;
+    }
   }
 
