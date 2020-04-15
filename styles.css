@@ -197,6 +197,7 @@ a:hover {
         background-position: no-repeat center top fixed;
         background-size: 280% auto;
     }
+    .footer-text { display: none; }
   }
 
 .footer-text {
