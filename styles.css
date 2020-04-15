@@ -190,6 +190,8 @@ a:hover {
 
     header {
         position: absolute;
+        background-position: no-repeat center top fixed;
+        background-size: 280% auto;
     }
   }
 
