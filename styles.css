@@ -200,7 +200,7 @@ a:hover {
   }
 
 .footer-text {
-    font-style: 'Caveat', cursive;
+    font-family: 'Caveat', cursive;
     bottom: 0;
     right: 0;
 }
