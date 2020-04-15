@@ -203,6 +203,7 @@ a:hover {
   position: fixed;
   bottom: 0;
   right: 0;
-  margin-right: 1rem;
+  margin-right: 2rem;
   margin-bottom: 1rem;
+  color: #f1c40f;
 }
