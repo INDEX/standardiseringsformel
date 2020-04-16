@@ -10,7 +10,7 @@ let kgMilk = document.getElementById("kgMilk--js").value;
 let fatPercent = document.getElementById("fatPercent--js").value;
 let skmFat = document.getElementById("skmFat--js").value;
 let sFat = document.getElementById("sFat--js").value;
-if (fatPercent =< sFat || fatPercent >= skmFat)  {
+if (sFat => fatPercent && skmFat =< fatPercent)  {
     function totalS() {
     return kgMilk * (fatPercent - skmFat) / (sFat - skmFat);
   };
